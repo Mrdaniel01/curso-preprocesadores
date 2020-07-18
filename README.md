@@ -8,4 +8,4 @@ Pagina de noticias de video jeugos ralizada con:
 3. Stylus
 4. Sass
 
-Pagina Principan Responsive
+Pagina Principal Responsive
